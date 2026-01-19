@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Abdul Samad 👋
 
-<!--
-**abdulsamad255/abdulsamad255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Engineer at **Kompass Technologies Private Limited**  
+I build cloud-based systems focused on reliability, clarity, and real-world
+business operations.
 
-Here are some ideas to get you started:
+## What I work on
+- Cloud Point of Sale (POS) platforms
+- Backend services and distributed systems
+- Production-ready business software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Backend:** Go (Golang)
+- **Frontend:** Next.js, TypeScript
+- **Cloud:** Google Cloud Platform
+- **Focus:** Reliability, scalability, maintainability
+
+## Current Focus
+- Building dependable POS systems for retail environments
+- Improving system stability under real-world usage
+
+> I believe business-critical software should be calm, predictable, and robust.
